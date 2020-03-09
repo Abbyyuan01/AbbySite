@@ -18,9 +18,11 @@ export default class About extends Component {
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
                         I am a master of engineering(software) student from
-                        University of Melbourne. I love exploring new
-                        technologies and have the ability to quickly learn and
-                        master new technologies
+                        University of Melbourne.
+                      </p>
+                      <p>
+                        I love exploring new technologies and have the ability
+                        to quickly learn and master new technologies
                       </p>
                     </div>
                   </div>
@@ -51,8 +53,8 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Web Development </h3>
                     <p>
-                      I have experience building websites and chrome extentions
-                      using JavaScript,React,HTML,CSS
+                      I have experience building websites using
+                      JavaScript,React,Node,HTML,CSS and MongoDB
                     </p>
                   </div>
                 </div>
@@ -79,8 +81,8 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Dev Ops</h3>
                     <p>
-                      I am pursuing my internship with DevOps team at Juniper
-                      and working with tools like Jenkins, Docker, K8s
+                      I have interests in DevOps and have used tools like
+                      CircleCI, Docker, K8s in team projects
                     </p>
                   </div>
                 </div>
